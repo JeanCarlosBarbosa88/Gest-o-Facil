@@ -95,3 +95,4 @@ tendo a lógica de negócio e organização de sistema.
 O sistema foi implementado e sendo utilizado em uma loja de roupas garantido o funcionamento
 e trazendo agilidade para gestão do comércio.
 
+Demonstração do sistema: https://youtu.be/3O3uQ_1JOu8
